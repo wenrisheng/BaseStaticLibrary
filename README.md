@@ -1,1 +1,1 @@
-# BaseStaticLibrary-
+# BaseStaticLibrary
